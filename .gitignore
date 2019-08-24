@@ -1,0 +1,5 @@
+user_*.txt
+settings.ini
+build/
+__pycache__/
+
